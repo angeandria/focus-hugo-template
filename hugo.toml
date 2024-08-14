@@ -1,0 +1,4 @@
+baseURL = 'https://angeandria.github.io/focus-hugo-template'
+languageCode = 'en-us'
+title = 'Focusmind'
+theme = 'PaperMod'
